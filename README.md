@@ -1,0 +1,2 @@
+3024original-model includes the code corresponding to the experimental stage in the report and the visualization of the result. 
+3024bayes corresponds to the optimalization stage in the report. It aims to find the optimal hyperparameters through Bayes algorithm. Then, a list of parameters are obtained and preseverd in the file "3024_TPE(1) (1).pkl". We then turn to "3024original-model" to visualize our result using the optimal parameters.
